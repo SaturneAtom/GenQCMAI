@@ -1,4 +1,4 @@
-# Création et Déploiement d'une Application avec Docker
+# Déploiement de l'application avec Docker
 
 Ce guide explique comment configurer votre application pour utiliser une clé API OpenAI, créer une image Docker et lancer le conteneur Docker sur le port `8501`.
 
