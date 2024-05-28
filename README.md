@@ -1,22 +1,3 @@
-# Déploiement de l'application avec Docker
-
-Ce guide explique comment configurer votre application pour utiliser une clé API OpenAI, créer une image Docker et lancer le conteneur Docker sur le port `8501`.
-
-## Prérequis
-
-Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
-
-- [Docker](https://www.docker.com/get-started)
-
-## Étapes
-
-### 1. Créer un fichier `.env`
-
-Créez un fichier nommé `.env` à la racine de votre projet et ajoutez votre clé API OpenAI :
-
-```plaintext
-OPENAI_API_KEY=your_openai_api_key_here
-```
 # Création et Déploiement d'une Application avec Docker
 
 Ce guide explique comment configurer votre application pour utiliser une clé API OpenAI, créer une image Docker et lancer le conteneur Docker sur le port `8501`.
