@@ -17,4 +17,4 @@ COPY . /app
 EXPOSE 8501
 
 # Commande pour exécuter l'application Streamlit lorsque le conteneur démarre
-CMD ["streamlit", "run", "app/app.py"]
+CMD ["streamlit", "run", "app/Home.py"]

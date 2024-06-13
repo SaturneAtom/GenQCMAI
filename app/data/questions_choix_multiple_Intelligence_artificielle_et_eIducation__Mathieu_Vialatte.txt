@@ -1,0 +1,22 @@
+Question : Quels sont les principaux avantages de l'IA générative dans la création de supports pédagogiques ?
+
+
+ A: Personnalisation du contenu en fonction des besoins de chaque apprenant
+ B: Amélioration de la créativité des enseignants
+ C: Augmentation de la sécurité dans les environnements éducatifs
+ D: Réduction des coûts de production des exercices
+
+Réponse correcte : A, B
+
+Question : Quels sont les défis et limites liés à l'utilisation de l'IA générative dans l'éducation ?
+
+
+ A: Accès limité aux technologies nécessaires pour utiliser l'IA générative
+ B: Risque d'inégalités dans l'apprentissage en raison d'une personnalisation trop poussée
+ C: Manque d'innovation dans les pratiques pédagogiques traditionnelles
+ D: Difficulté à intégrer éthiquement l'IA générative dans les environnements éducatifs
+
+Réponse correcte : B, D
+
+
+

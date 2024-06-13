@@ -1,0 +1,44 @@
+Question: Quelle est la période pendant laquelle Mathieu Vialatte a travaillé en tant que commercial pour BUT à Agen ?
+
+
+ A: 07/2020  09/2020
+ B: 09/2019  07/2021
+ C: 01/2022  08/2022
+ D: 09/2021  07/2022
+
+Réponse correcte : A
+
+Question: Quelles sont les compétences principales de Mathieu Vialatte en tant que consultant CRM chez PumpUp à Grenoble ?
+
+
+ A: Gestion de projet, Stratégies de marketing, Conception de processus, Analyse de données
+ B: Intelligence artificielle (NLP), Analyse de données, Suivi des tendances du marché, Créativité 
+ C: JavaScript, Node.js, MongoDB, Linux 
+ D: Encadrement du personnel, Gestion d'équipe, Gestion budgétaire, Organisation d'événements
+
+Réponse correcte : A
+
+
+
+Question: Quelle est la compétence principale de Mathieu Vialatte en tant que chef de produit intelligence artificielle chez PumpUp à Grenoble?
+
+
+ A: Gestion de projet
+ B: Analyse de données
+ C: Créativité
+ D: Cloud Computing
+
+Réponse correcte : B, D
+
+Question: Quel poste a occupé Mathieu Vialatte lorsqu'il travaillait pour BUT à Agen en 2020?
+
+
+ A: Développeur web full stack
+ B: Commercial
+ C: Consultant CRM
+ D: Organisateur de vacances
+
+Réponse correcte : B
+
+
+

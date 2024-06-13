@@ -1,0 +1,88 @@
+Question: Quelle est la différence entre l'approche d'innovation des grandes entreprises et celle des startups?
+
+
+ A: Les grandes entreprises suivent un processus linéaire tandis que les startups ont un processus itératif.
+ B: Les grandes entreprises ont des ressources limitées tandis que les startups ont un budget important.
+ C: Les grandes entreprises ont une stratégie basée sur la quantité tandis que les startups ont une stratégie basée sur la qualité.
+ D: Les grandes entreprises ont une vision positiviste du monde tandis que les startups ont une vision constructiviste.
+
+Réponse correcte : A, D
+
+Question: Quels sont les différents types de services dans lesquels l'innovation peut être appliquée selon Howells et Tether?
+
+
+ A: Services liés à des biens, services ayant trait à la personne, services fondés sur le savoir, services de transport
+ B: Services liés à l'information, services de logistique, services ayant trait à la santé, services de communication
+ C: Services ayant trait aux technologies, services fondés sur le marché, services liés au développement durable, services financiers
+ D: Services liés aux technologies de l'information, services de transport et logistique, services financiers, soins de santé
+
+Réponse correcte : A
+
+
+
+Question : Quelles sont les différences entre le processus d'innovation dans les grandes entreprises et celui dans les startups ?
+
+
+ A: Les grandes entreprises suivent une approche linéaire tandis que les startups ont un processus itératif et circulaire.
+ B: Les grandes entreprises investissent davantage dans les phases amont du processus d'innovation.
+ C: Les startups ont un risque d'échec plus élevé, mais leur approche est mieux adaptée lorsque les ressources sont limitées.
+ D: Les grandes entreprises suivent une approche positiviste, tandis que les startups ont une vision plus relative du monde.
+
+Réponse correcte : A, B
+
+Question : Qu'estce qui peut être considéré comme de l'innovation dans une entreprise ?
+
+
+ A: La reproduction humaine
+ B: La qualité et la compétitivité
+ C: La quantité et l'opportunisme
+ D: La création de nouveaux produits ou services
+
+Réponse correcte : B, C, D
+
+
+
+Question : Quels sont les différents types de processus d'innovation adoptés par les PME ?
+
+
+ A: Processus linéaires et en cascade
+ B: Processus itératifs et circulaires
+ C: Processus en V et en cascade
+ D: Processus linéaires et itératifs
+
+Réponse correcte : A, B
+
+Question : Quelles sont les différences entre l'innovation dans les grands groupes et dans les startups ?
+
+
+ A: Les grands groupes ont un processus d'innovation plus flexible
+ B: Les startups ont un risque d'échec plus élevé
+ C: Les grands groupes ont une approche plus constructive de l'innovation
+ D: Les startups ont des ressources limitées pour innover
+
+Réponse correcte : B, D
+
+
+
+Question : Selon l'analyse précédente, quelles sont les différentes approches que les PME peuvent adopter pour innover ?
+
+
+ A: Se baser sur la méthode scientifique et suivre un processus linéaire
+ B: Adopter une approche plus flexible et itérative
+ C: Reproduire le modèle de fonctionnement des grandes entreprises
+ D: Suivre une stratégie basée sur la quantité plutôt que la qualité
+
+Réponse correcte : B, D
+
+Question : Quels sont les deux composantes de base de l'innovation produit selon la littérature ?
+
+
+ A: L'invention et le marché
+ B: Les services liés à l'information et ceux ayant trait à la personne
+ C: Les processus linéaires et ceux itératifs
+ D: Les services fondés sur le savoir et ceux ayant trait aux biens
+
+Réponse correcte : A
+
+
+

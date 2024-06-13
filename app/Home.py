@@ -2,8 +2,8 @@ import streamlit as st
 
 # Configurer le titre de la page et l'icône
 st.set_page_config(
-    page_title="Exercices AI",
-    page_icon="🧠",
+    page_title="Home",
+    page_icon="🏠",
 )
 
 # En-tête de la page d'accueil avec un titre principal
@@ -24,9 +24,10 @@ st.write(
 )
 
 st.divider()
-
-st.header("Génération avec Pdf")
-
-st.page_link("pages/1_📖_PDF.py", label="Cliquez ici", icon="📖")
+st.header("Sommaire")
+st.write("Générer des questions à partir de documents PDF.")
+st.page_link("pages/1_📝_Create.py", label="Cliquez-ici", icon="📝")
+st.write("Liste de mes fichiers")
+st.page_link("pages/2_📚_Files.py", label="Cliquez-ici", icon="📚")
 
 st.divider()# 

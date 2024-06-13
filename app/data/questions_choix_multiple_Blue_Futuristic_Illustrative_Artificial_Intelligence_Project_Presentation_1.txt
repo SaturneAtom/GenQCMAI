@@ -1,0 +1,22 @@
+Question 1 : Quelle est l'innovation radicale introduite dans ce document ?
+
+
+ A: La conversion des documents PDF en outils interactifs
+ B: L'utilisation d'outils de génération de contenu automatisé
+ C: La transformation des ressources pédagogiques traditionnelles en outils d'apprentissage interactifs
+ D: La programmation de scripts et d'algorithmes pour générer des exercices interactifs
+
+Réponse correcte : C
+
+Question 2 : Quel est l'objectif principal du stagiaire mentionné dans le document ?
+
+
+ A: Acquérir une compréhension pratique des concepts d'IA
+ B: Contribuer au progrès de l'intelligence artificielle
+ C: Approfondir ses connaissances et compétences en IA
+ D: Transformer les ressources pédagogiques traditionnelles en outils interactifs
+
+Réponse correcte : C
+
+
+

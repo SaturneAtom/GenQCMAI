@@ -1,0 +1,44 @@
+Question: Quel est l'objectif de l'étudiant en stage à l'IAE ?
+
+
+ A: Acquérir des connaissances en intelligence artificielle et cloud computing
+ B: Développer des compétences pratiques en IA
+ C: Transformer les ressources pédagogiques traditionnelles en outils interactifs
+ D: Perturber le paradigme éducatif établi
+
+Réponse correcte : A, B
+
+Question: Comment l'innovation radicale proposée perturbetelle le paradigme éducatif établi ?
+
+
+ A: En proposant des exercices interactifs personnalisés
+ B: En créant des présentations PowerPoint dynamiques à partir de données PDF
+ C: En transformant les ressources pédagogiques traditionnelles en outils interactifs
+ D: En favorisant un apprentissage actif adapté aux besoins individuels
+
+Réponse correcte : B, C
+
+
+
+Question: Quel est l'objectif de l'étudiant en stage à l'IAE ?
+
+
+ A: Acquérir des connaissances en intelligence artificielle
+ B: Améliorer ses compétences en cloud computing
+ C: Développer une compréhension pratique de l'IA dans le monde réel
+ D: Tous les choix sont corrects
+
+Réponse correcte : C
+
+Question: Quelle innovation est introduite par le projet ?
+
+
+ A: La transformation des ressources pédagogiques traditionnelles en outils interactifs
+ B: La création de présentations PowerPoint dynamiques à partir de données PDF
+ C: L'utilisation d'outils automatisés pour générer du contenu éducatif personnalisé
+ D: Tous les choix sont corrects
+
+Réponse correcte : D
+
+
+
