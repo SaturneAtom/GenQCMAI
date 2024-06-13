@@ -12,8 +12,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 Utilisez la commande suivante pour installer les dépendances : 
 
-```
-plaintext
+```plaintext
 pip install -r -requirements.txt
 ```
 
