@@ -1,16 +1,6 @@
-# Déploiement de l'application avec Docker
+# Déploiement de l'application
 
-Ce guide explique comment configurer votre application pour utiliser une clé API OpenAI, créer une image Docker et lancer le conteneur Docker sur le port `8501`.
-
-## Prérequis
-
-Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
-
-- [Docker](https://www.docker.com/get-started)
-
-## Étapes
-
-### 1. Créer un fichier `.env`
+### 1. Modifier le fichier `.env`
 
 Modifier le fichier nommé `.env` dans le dossier /app et ajoutez votre clé API OpenAI :
 
@@ -18,21 +8,21 @@ Modifier le fichier nommé `.env` dans le dossier /app et ajoutez votre clé API
 OPENAI_API_KEY=your_openai_api_key_here
 ```
 
-### 2. Construire image Docker 
+### 2. Installer les dépendances
 
-Utilisez la commande suivante pour lancer le dockerfile situé à la racine du projet : 
+Utilisez la commande suivante pour installer les dépendances : 
 
 ```
 plaintext
-docker build -t <nom_app>
+pip install -r -requirements.txt
 ```
 
-### 3. Lancer le conteneur Docker
+### 3. Lancer l'application
 
-Utilisez la commande suivante pour lancer un conteneur à partir de l'image Docker que vous venez de créer :
+Utilisez la commande suivante pour lancer l'application avec streamlit:
 
 ```plaintext
-docker run -p 8501:8501 <nom_app>
+streamlit run app/Home.py
 ```
 
 ### 4. Accéder à l'application
